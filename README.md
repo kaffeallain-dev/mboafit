@@ -29,4 +29,4 @@ MboaFit solves this by providing a localized food database, personalized calorie
 
 ## Status
 
-Currently in MVP development and user testing.
+Currently in MVP development and user testing
